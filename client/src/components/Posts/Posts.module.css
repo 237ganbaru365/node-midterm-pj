@@ -1,0 +1,7 @@
+.posts {
+  font-family: "Lora", serif;
+  font-style: italic;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
